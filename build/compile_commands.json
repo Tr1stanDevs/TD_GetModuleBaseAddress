@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/tsimon/Desktop/TD_GetModuleBaseAddress/build",
-  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -O0 -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -g -Xclang -gcodeview -o CMakeFiles\\TD_GetModuleBaseAddress.dir\\main.cpp.obj -c C:\\Users\\tsimon\\Desktop\\TD_GetModuleBaseAddress\\main.cpp",
-  "file": "C:/Users/tsimon/Desktop/TD_GetModuleBaseAddress/main.cpp",
-  "output": "C:/Users/tsimon/Desktop/TD_GetModuleBaseAddress/build/CMakeFiles/TD_GetModuleBaseAddress.dir/main.cpp.obj"
-}
-]
