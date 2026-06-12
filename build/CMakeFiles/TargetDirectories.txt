@@ -1,0 +1,3 @@
+C:/Users/tsimon/Desktop/TD_GetModuleBaseAddress/build/CMakeFiles/TD_GetModuleBaseAddress.dir
+C:/Users/tsimon/Desktop/TD_GetModuleBaseAddress/build/CMakeFiles/edit_cache.dir
+C:/Users/tsimon/Desktop/TD_GetModuleBaseAddress/build/CMakeFiles/rebuild_cache.dir
