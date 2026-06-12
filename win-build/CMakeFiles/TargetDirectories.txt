@@ -1,3 +1,0 @@
-C:/Users/tsimon/Desktop/TD_GetModuleBaseAddress/win-build/CMakeFiles/TD_GetModuleBaseAddress.dir
-C:/Users/tsimon/Desktop/TD_GetModuleBaseAddress/win-build/CMakeFiles/ALL_BUILD.dir
-C:/Users/tsimon/Desktop/TD_GetModuleBaseAddress/win-build/CMakeFiles/ZERO_CHECK.dir
